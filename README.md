@@ -1,5 +1,4 @@
 # lollypoppy
 Lolly escapes the mansion.
 
-
-Help me find the Exit.
+Help me find the Exit!
